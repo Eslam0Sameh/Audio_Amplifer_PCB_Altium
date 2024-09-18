@@ -1,0 +1,10 @@
+Added Pin To Net: NetName=NetQ correct_1 Pin=Q correct-1
+Added Pin To Net: NetName=NetQ correct_1 Pin=Q wrong-3
+Added Net: Name=NetQ correct_1
+Added Pin To Net: NetName=NetQ correct_2 Pin=Q correct-2
+Added Pin To Net: NetName=NetQ correct_2 Pin=Q wrong-2
+Added Net: Name=NetQ correct_2
+Added Pin To Net: NetName=NetQ correct_3 Pin=Q correct-3
+Added Pin To Net: NetName=NetQ correct_3 Pin=Q wrong-1
+Added Net: Name=NetQ correct_3
+Added Room: Name=Sheet1
